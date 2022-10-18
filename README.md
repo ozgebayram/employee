@@ -1,4 +1,21 @@
-# Getting Started with Create React App
+# Employee List
+
+
+## Check The Live Website ➡️ [Live Website](https://employee-to-react.netlify.app/)
+
+## Visualization of the Website
+
+![image (18)](https://user-images.githubusercontent.com/105461003/196432542-d6d9a7a5-d2f9-40c1-a007-94691ff36bfc.png)
+![image (17)](https://user-images.githubusercontent.com/105461003/196432561-8b9db823-4796-47f5-b2b3-b9411919ac97.png)
+
+
+
+
+## Description
+
+Project aims to create a Employees List App.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
