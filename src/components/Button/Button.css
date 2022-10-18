@@ -1,0 +1,23 @@
+.prev{
+    margin: 10px;
+    padding: 8px;
+    width: 4rem;
+    background-color: rgb(243, 233, 233);
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+.next{
+    margin: 10px;
+    padding: 8px;
+    width: 4rem;
+    background-color: rgb(245, 238, 238);
+    border-radius: 10px;
+}
+.prev:hover{
+    cursor: pointer;
+    box-shadow: 3px 3px 4px gray,-3px -3px 4px gray;
+}
+.next:hover{
+    cursor: pointer;
+    box-shadow: 3px 3px 4px gray,-3px -3px 4px gray;
+}

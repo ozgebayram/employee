@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main{    
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    margin: 13px;
+    /* border: 1px solid red; */
+    border-radius: 1rem;
+    background-color: whitesmoke;
+    padding: 0.5rem;
+}
+.main:hover{
+    opacity: 0.7;
+}
+.main-info{
+   /* border: 1px solid red; */
+   text-align: start;
+   margin-left: 1rem;
+   margin: 2rem;
+   height: rem;
+   
+    
+    
+    
+    
+}
+.main-img{
+    border-radius: 1rem;
+}
+.name{
+    color: rgb(41, 32, 2);
+    font-size: 20px;   
+
+    
+}
+.email{
+    font-weight: 600;
+}
+
