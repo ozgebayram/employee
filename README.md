@@ -8,7 +8,8 @@
 
 
 ## Visualization of the Website
-![image](https://user-images.githubusercontent.com/105461003/197518369-e760521e-6646-4619-9487-652aaffea8d4.png)
+![image](https://user-images.githubusercontent.com/105461003/197536737-1985f175-5151-4116-86da-c277c69ae1af.png)
+
 
 
 ## Description
