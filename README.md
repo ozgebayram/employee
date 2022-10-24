@@ -1,6 +1,6 @@
 # Project : Employee List
 
-## Check The Live Website ➡️ [https://cooper-employee-react.netlify.app/]
+## Check The Live Website ➡️ [https://employee-to-react.netlify.app/]
 
 ## Visualization of the Website
 
