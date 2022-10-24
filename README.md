@@ -5,7 +5,7 @@
 ## Visualization of the Website
 
 ![Form](./employee.gif)
-![Form](https://github.com/ozgebayram/employee/blob/main/employee.gif)
+
 
 ## Visualization of the Website
 ![image](https://user-images.githubusercontent.com/105461003/197518369-e760521e-6646-4619-9487-652aaffea8d4.png)
