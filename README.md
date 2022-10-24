@@ -37,16 +37,21 @@ Employee List Project(folder)
 │     └── index.html
 ├── src
 │    ├── components
-│    │       ├── data
-│    │             ├── data.js
-│    │       ├── main
-│    │             ├── Emoloyee.jsx
+│    │       ├── Button
+│    │             ├── Button.jsx
+│    │             ├── Button.css
+│    │       ├── Main
+│    │             ├── Main.css
 │    │             ├── Main.jsx
+│    │       ├── Header
+│    │             ├── Header.jsx
+│    │             ├── Header.css
+│    ├── assets
 │    ├── App.js
 │    ├── index.js
 │    ├── App.css
 │    ├── index.css
-│    ├── list.gif
+├── list.gif
 └── package.json
 ```
 
@@ -65,7 +70,7 @@ You can see the visual representation of the website above.
 
 ## Resources
 
-- 🔥 You can use [`data.js`](./src/components/data/data.js) for your own work.
+- 🔥 You can use [`data.js`](./src/components/assets/data.js) for your own work.
 
 ## Support
 Open an Issue, I will check it a soon as possible 👀
