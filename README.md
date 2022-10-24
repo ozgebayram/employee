@@ -70,7 +70,7 @@ You can see the visual representation of the website above.
 
 ## Resources
 
-- 🔥 You can use [`data.js`](./src/components/assets/data.js) for your own work.
+- 🔥 You can use [`data.js`](./src/assets/data.js) for your own work.
 
 ## Support
 Open an Issue, I will check it a soon as possible 👀
